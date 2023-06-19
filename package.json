@@ -4,7 +4,7 @@
     "name": "Choudhary Reyan Khan"
   },
   "version": "0.0.1",
-  "readme": "./docs/index.html",
+  "readme": "./index.html",
   "module": "commonjs",
   "type": "commonjs",
   "main": "index.js",
